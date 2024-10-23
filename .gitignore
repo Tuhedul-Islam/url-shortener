@@ -17,4 +17,4 @@ yarn-error.log
 /.vscode\
 /.scribe
 composer.lock
-README.md
+#README.md
